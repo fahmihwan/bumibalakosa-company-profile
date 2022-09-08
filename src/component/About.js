@@ -4,7 +4,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 
-const About = () => {
+const About = ({ about_us }) => {
 
     useEffect(() => {
         AOS.init({ duration: 900 });
@@ -16,15 +16,17 @@ const About = () => {
         <div className='container-fluid mt-5' id='web-about' style={{
             overflow: "hidden",
         }}>
-            <div id='id-tentang-kami' className='mb-3'></div>
+            <div id='id-about-us' className='mb-3'></div>
             <div className='container' id='id-tentang-kami'>
                 <div className='row'   >
                     <div className='col-md-7 d-flex align-items-center ' >
                         <article style={{
                             textAlign: "justify",
                         }} data-aos="fade-right">
-                            <h2 className=''>Tentang Kami</h2>
-                            Bumi adalah perusahaan yang didirikan atas kesadaran akan potensi sumber daya alam yang tinggi di sekitar kita, serta keinginan dan kemauan untuk berkontribusi pada kesejahteraan petani lokal. Melihat potensi daerah kami yang sangat besar, kami memilih untuk berkonsentrasi pada rempah-rempah yang tersedia di Indonesia dan akhirnya membawa komoditas ini ke level berikutnya. Kami hadir untuk meningkatkan permintaan akan produk rempah yang berkualitas dengan harga yang terjangkau bagi petani dan hadir di seluruh dunia. Kami sangat yakin, dengan meningkatnya permintaan dan dukungan pemberdayaan dari kami, kesejahteraan petani lokal akan meningkat.
+                            <h2 className=''>{about_us.title}</h2>
+                            {/* Bumi is company founded on the awareness of the high potential of natural resources around us, and the desire and willingness to contribute to the welfare of local farmers.
+                            Seeing the huge potential of our region, we chose to concentrate on the spices available in Indonesia and finally take this commodity to the next level. We are here to increase the demand for quality spice products at affordable prices for farmers and present all over the world. We firmly believe, with increasing demand and support for empowerment from us, the welfare of local farmers will increase. */}
+                            {about_us.description}
                         </article>
 
                     </div>

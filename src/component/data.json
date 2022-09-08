@@ -1,0 +1,280 @@
+{
+    "language": [
+        {
+            "language": "indonesia",
+            "topContact": "Hubungi kami di",
+            "navigation": [
+                "Home",
+                "Fitur Utama Kami",
+                "Tentang Kami",
+                "Produk Kami",
+                "Tim Kami"
+            ],
+            "translate": "bahasa",
+            "tagline": "Komoditas Rempah-rempah Terbaik Indonesia",
+            "contact_us": "Hubungi Kami",
+            "slick_menu": [
+                "Buat Pinang",
+                "Kayu Manis",
+                "Cengkeh",
+                "Temulawak",
+                "Lengkuas",
+                "Jahe",
+                "Kunyit"
+            ],
+            "about_us": {
+                "title": "Tentang Kami",
+                "description": "Bumi adalah perusahaan yang didirikan atas kesadaran akan potensi sumber daya alam yang tinggi di sekitar kita, serta keinginan dan kemauan untuk berkontribusi pada kesejahteraan petani lokal. Melihat potensi daerah kami yang sangat besar, kami memilih untuk berkonsentrasi pada rempah-rempah yang tersedia di Indonesia dan akhirnya membawa komoditas ini ke level berikutnya. Kami hadir untuk meningkatkan permintaan akan produk rempah yang berkualitas dengan harga yang terjangkau bagi petani dan hadir di seluruh dunia. Kami sangat yakin, dengan meningkatnya permintaan dan dukungan pemberdayaan dari kami, kesejahteraan petani lokal akan meningkat. "
+            },
+            "our_key_features": [
+                {
+                    "title": "FITUR UTAMA KAMI"
+                },
+                {
+                    "subtitle": "INTEGRITAS",
+                    "description": "Mengatakan kebenaran, dan memperlakukan orang lain dengan adil dan hormat. Integritas adalah salah satu aset kita yang paling berharga. Itu tidak boleh dikompromikan."
+                },
+                {
+                    "subtitle": "KUALITAS",
+                    "description": "Kualitas ditunjukkan dalam banyak cara dengan menjual dan mendukung produk dan layanan yang menyenangkan pelanggan, membangun lingkungan kerja, memberikan hasil keuangan yang memenuhi harapan investor."
+                },
+                {
+                    "subtitle": "KOMITMEN",
+                    "description": "Komitmen itu penting dimana kami akan terus memberikan yang terbaik kepada pelanggan dan investor kami sepanjang waktu."
+                }
+            ],
+            "our_product": [
+                {
+                    "title": "Produk Kami"
+                },
+                {
+                    "id": 1,
+                    "nama": "Kayu Manis",
+                    "kelembaban": "12% - 13% Maks",
+                    "diameter": "Maks 1,5 cm",
+                    "warna": "Kuning Kecoklatan",
+                    "bentuk": "Tongkat",
+                    "gaya": "Kering",
+                    "ukuran": "6 CM – 10 CM",
+                    "asal": "Kerinci",
+                    "goresan": "Bersih dan Bebas Jamur ",
+                    "tebal": "0,5 mm – 1,5 mm 5",
+                    "img": "./img/product-remove-bg/2-cinamond.png"
+                },
+                {
+                    "id": 2,
+                    "nama": "Cengkeh AB6",
+                    "kelembaban": "5% - 8% Maks",
+                    "campuran": "1% - 2%",
+                    "warna": "Kecoklatan",
+                    "gaya": "Kering",
+                    "asal": "Kerinci & Jawa Timur 6",
+                    "img": "./img/product-remove-bg/3-cloves.png"
+                },
+                {
+                    "id": 3,
+                    "nama": "Buah Pinang",
+                    "kelembaban": "5% - 8% Maks",
+                    "warna": "Kecoklatan",
+                    "bentuk": "Belahan",
+                    "asal": "Jambi",
+                    "gaya": "Kering",
+                    "tipe": "90/95,80/85",
+                    "img": "./img/product-remove-bg/1-betel-nut.png"
+                },
+                {
+                    "id": 4,
+                    "nama": "Lengkuas Kering",
+                    "kelembaban": "12% Maks ",
+                    "warna": "Kecoklatan",
+                    "bentuk": "Irisan",
+                    "merhodPengering": "Sinar Matahari",
+                    "asal": "Jawa Timur 9 ",
+                    "img": "./img/product-remove-bg/5-galangal.png"
+                },
+                {
+                    "id": 5,
+                    "nama": "Temulawak Kering",
+                    "kelembaban": "12% Maks ",
+                    "warna": "Kuning",
+                    "bentuk": "Irisan",
+                    "merhodPengering": "Sinar Matahari",
+                    "asal": "Jawa Timur 10",
+                    "img": "./img/product-remove-bg/4-curcuma.png"
+                },
+                {
+                    "id": 6,
+                    "nama": "Kunyit Kering",
+                    "kelembaban": "12% Maks  ",
+                    "warna": "Kuning",
+                    "bentuk": "Irisan ",
+                    "merhodPengering": "Sinar Matahari",
+                    "asal": "Jawa Timur 11",
+                    "img": "./img/product-remove-bg/7-tumeric.png"
+                },
+                {
+                    "id": 7,
+                    "nama": "Jahe Merah Kering",
+                    "kelembaban": "12% Maks",
+                    "warna": "Kecoklatan",
+                    "bentuk": "Irisan ",
+                    "merhodPengering": "Sinar Matahari",
+                    "asal": "Jawa Timur ",
+                    "img": "./img/product-remove-bg/6-ginger.png"
+                }
+            ],
+            "our_team": [
+                {
+                    "title": "Tim Kami"
+                },
+                {
+                    "social_media": "media sosial"
+                },
+                {
+                    "title": "Kirim kami pesan",
+                    "name": "nama",
+                    "email": "email",
+                    "message": "pesan"
+                }
+            ]
+        },
+        {
+            "language": "inggris",
+            "topContact": "Contact us on",
+            "navigation": [
+                "Home",
+                "Our Key Features",
+                "About Us",
+                "Our Product",
+                "Our Team"
+            ],
+            "translate": "language",
+            "tagline": "Indonesian’s Finest spice  Commodity",
+            "contact_us": "Contact Us",
+            "slick_menu": [
+                "Betel Nut",
+                "Cinnamond",
+                "Cloves",
+                "Curcuma",
+                "Galangal",
+                "Ginger",
+                "Tumeric"
+            ],
+            "about_us": {
+                "title": "About Us",
+                "description": "Bumi is company founded on the awareness of the high potential of natural resources around us, and the desire and willingness to contribute to the welfare of local farmers. Seeing the huge potential of our region, we chose to concentrate on the spices available in Indonesia and finally take this commodity to the next level. We are here to increase the demand for quality spice products at affordable prices for farmers and present all over the world. We firmly believe, with increasing demand and support for empowerment from us, the welfare of local farmers will increase. "
+            },
+            "our_key_features": [
+                {
+                    "title": "OUR KEY FEATURES"
+                },
+                {
+                    "subtitle": "INTEGRITY",
+                    "description": "Telling the truth, and treating others with fairness and respect. Integrity is one of our most cherished assets. It must not be compromised."
+                },
+                {
+                    "subtitle": "QUALITY",
+                    "description": "Quality is exhibited in many ways by selling and supporting products and services that delight customers, establishing a work environment, delivering financial results that meet investor expectations."
+                },
+                {
+                    "subtitle": "Commitment",
+                    "description": "Commitment is important where we will continue to provide the best to our customers and investors all the time. "
+                }
+            ],
+            "our_product": [
+                {
+                    "title": "OUR PRODUCT"
+                },
+                {
+                    "id": 1,
+                    "nama": "Cinnamon Stick",
+                    "kelembaban": "12% - 13% Max",
+                    "diameter": "max 1,5 cm",
+                    "warna": "Brownish Yellow",
+                    "bentuk": "Stick",
+                    "gaya": "Dry",
+                    "ukuran": "6 CM – 10 CM",
+                    "asal": "Kerinci",
+                    "goresan": "Clean and Free from Mushroom",
+                    "tebal": "0,5 mm – 1,5 mm 5",
+                    "img": "./img/product-remove-bg/2-cinamond.png"
+                },
+                {
+                    "id": 2,
+                    "nama": "Clove AB6",
+                    "kelembaban": "5% - 8% Max",
+                    "campuran": "1% - 2%",
+                    "warna": "Brownish",
+                    "gaya": "Dry",
+                    "asal": "Kerinci & East Java",
+                    "img": "./img/product-remove-bg/3-cloves.png"
+                },
+                {
+                    "id": 3,
+                    "nama": "Betel Nut",
+                    "kelembaban": "5% - 8% Max",
+                    "warna": "Brownish",
+                    "bentuk": "Split",
+                    "asal": "Jambi",
+                    "gaya": "Dry",
+                    "tipe": "90/95,80/85",
+                    "img": "./img/product-remove-bg/1-betel-nut.png"
+                },
+                {
+                    "id": 4,
+                    "nama": "Dried Galangal",
+                    "kelembaban": "12% Maks ",
+                    "warna": "Brownsih",
+                    "bentuk": "Sliced",
+                    "merhodPengering": "Sunlight",
+                    "asal": "East Java 9 ",
+                    "img": "./img/product-remove-bg/5-galangal.png"
+                },
+                {
+                    "id": 5,
+                    "nama": "Dried Curcuma",
+                    "kelembaban": "12% Maks ",
+                    "warna": "Yellow",
+                    "bentuk": "Sliced ",
+                    "merhodPengering": "Sunlight",
+                    "asal": "East Java 10",
+                    "img": "./img/product-remove-bg/4-curcuma.png"
+                },
+                {
+                    "id": 6,
+                    "nama": "Dried Tumeric",
+                    "kelembaban": "12% Maks  ",
+                    "warna": "Yellow",
+                    "bentuk": "Sliced ",
+                    "merhodPengering": "Sunlight",
+                    "asal": "East Java",
+                    "img": "./img/product-remove-bg/7-tumeric.png"
+                },
+                {
+                    "id": 7,
+                    "nama": "Dried Red Ginger",
+                    "kelembaban": "12% Maks",
+                    "warna": "Brownish",
+                    "bentuk": "Sliced",
+                    "merhodPengering": "Sunlight",
+                    "asal": "East Java",
+                    "img": "./img/product-remove-bg/6-ginger.png"
+                }
+            ],
+            "our_team": [
+                {
+                    "title": "Contact Us"
+                },
+                {
+                    "social_media": "social media"
+                },
+                {
+                    "title": "Send us a message",
+                    "name": "your name",
+                    "email": "your email",
+                    "message": "your message"
+                }
+            ]
+        }
+    ]
+}

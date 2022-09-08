@@ -1,7 +1,7 @@
 import React from 'react';
 import Slider from "react-slick";
 
-export const SlickMenu = () => {
+export const SlickMenu = ({ menu }) => {
 
     function SampleNextArrow(props) {
         const { onClick } = props;
@@ -9,7 +9,7 @@ export const SlickMenu = () => {
             <button
                 className='next-arrow'
                 onClick={onClick}>
-                <i class="fas fa-chevron-right"></i>
+                <i className="fas fa-chevron-right"></i>
             </button>
         );
     }
@@ -80,51 +80,46 @@ export const SlickMenu = () => {
 
                     <Slider {...settings} >
                         <div className='slick-container-card' >
-                            <img className="img-fluid slick-card" src="./img/Betel-nut/3.png" alt="" style={{ width: "100%" }} />
+                            <img className="img-fluid slick-card" src="./img/slick-card/1-betel-nut.png" alt="" style={{ width: "100%" }} />
                             <div className='slick-card-title py-2'>
-                                Betel nut
+                                {menu[0]}
                             </div>
                         </div>
                         <div className='slick-container-card'>
-                            <img className="img-fluid slick-card" src="./img/Cinamond/5.png" alt="" style={{ width: "100%" }} />
+                            <img className="img-fluid slick-card" src="./img/slick-card/2-cinamond.png" alt="" style={{ width: "100%" }} />
                             <div className='slick-card-title py-2'>
-                                Cinamond
+                                {menu[1]}
                             </div>
                         </div>
                         <div className='slick-container-card'>
-                            <img className="img-fluid slick-card" src="./img/Cloves/1.png" alt="" style={{ width: "100%" }} />
+                            <img className="img-fluid slick-card" src="./img/slick-card/3-cloves.png" alt="" style={{ width: "100%" }} />
                             <div className='slick-card-title py-2'>
-                                Cloves
+                                {menu[2]}
                             </div>
-
                         </div>
                         <div className='slick-container-card'>
-                            <img className="img-fluid slick-card" src="./img/Curcuma/2.png" alt="" style={{ width: "100%" }} />
+                            <img className="img-fluid slick-card" src="./img/slick-card/5-curcuma.png" alt="" style={{ width: "100%" }} />
                             <div className='slick-card-title py-2'>
-                                Curcuma
+                                {menu[3]}
                             </div>
-
                         </div>
                         <div className='slick-container-card'>
-                            <img className="img-fluid slick-card" src="./img/Galangal/1.png" alt="" style={{ width: "100%" }} />
+                            <img className="img-fluid slick-card" src="./img/slick-card/4-galangal.png" alt="" style={{ width: "100%" }} />
                             <div className='slick-card-title py-2'>
-                                Galangal
+                                {menu[4]}
                             </div>
-
                         </div>
                         <div className='slick-container-card'>
-                            <img className="img-fluid slick-card" src="./img/Ginger/1.png" alt="" style={{ width: "100%" }} />
+                            <img className="img-fluid slick-card" src="./img/slick-card/5-curcuma.png" alt="" style={{ width: "100%" }} />
                             <div className='slick-card-title py-2'>
-                                Ginger
+                                {menu[5]}
                             </div>
-
                         </div>
                         <div className='slick-container-card'>
-                            <img className="img-fluid slick-card" src="./img/Tumeric/1.png" alt="" style={{ width: "100%" }} />
+                            <img className="img-fluid slick-card" src="./img/slick-card/7-tumeric.png" alt="" style={{ width: "100%" }} />
                             <div className='slick-card-title py-2'>
-                                Tumeric
+                                {menu[6]}
                             </div>
-
                         </div>
 
                     </Slider>
