@@ -64,11 +64,11 @@ const Fitur = ({ title, integrity, quality, commitment }) => {
                                             <img src="./img/fitur/commitment.png" alt="" style={{ width: "120px" }} />
                                         </div>
                                         <br />
-                                        <b className='text-center '>{quality.subtitle}</b>
+                                        <b className='text-center '>{commitment.subtitle}</b>
                                     </div>
                                     <div className='card-block-hover text-center'>
                                         <article className='text-center'>
-                                            {quality.description}
+                                            {commitment.description}
                                         </article>
                                     </div>
                                 </div>

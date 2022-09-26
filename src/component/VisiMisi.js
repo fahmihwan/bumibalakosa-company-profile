@@ -58,8 +58,8 @@ const VisiMisi = ({ title, social_media }) => {
                             </a>
                             <br />
                             {/* ig */}
-                            <a href="https://instagram.com/rjazizah?igshid=YmMyMTA2M2Y=" target={"_blank"} className='text-decoration-none' rel="noreferrer">
-                                <i class="fab fa-instagram-square"></i> rjazizah
+                            <a href="https://www.instagram.com/resmajaa/" target={"_blank"} className='text-decoration-none' rel="noreferrer">
+                                <i class="fab fa-instagram-square"></i> resmajaa
                             </a>
                         </div>
                     </div>

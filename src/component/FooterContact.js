@@ -10,7 +10,6 @@ const FooterContact = ({ title, name, email, message, contact_us }) => {
             .then((result) => {
                 alert('pesan anda telah terkirim');
                 btnSubmit.current.disabled = true;
-                // btnSubmit.current.style.background = "grey";
 
             }, (error) => {
                 alert('gagal mengirimkan pesan');
